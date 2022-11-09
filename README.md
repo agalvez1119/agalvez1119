@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agalvez1119
+- 👋 Hi, I’m @agalvez1119.
 Adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction across Fintech, eCommerce and SAAS industry. 
 
 <!---
